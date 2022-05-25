@@ -125,6 +125,7 @@ section {
 }
 
 .home-container {
+  margin-top: 50px;
  margin-left: 12px;
 
   /* border: 2px solid green; */
@@ -172,7 +173,7 @@ section {
 
 .home-image {
   display:inline-block;
-  width: 30%;
+  width: 35%;
   padding-left: 25px;
  /* border: 2px solid brown; */
 }
